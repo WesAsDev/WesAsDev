@@ -1,6 +1,6 @@
 <h2 align="center"> Olá, me chamo Weslley e tenho 20 anos 🔥 </h2>
 <div align="center">
-- 🔭 Sou um desenvolvedor web front-end </br>
+- 🔭 Sou um desenvolvedor web fullstack </br>
 - 🌱 Estudando: Javascript, HTML, CSS, ReactJs, NodeJs
 </div></br>
 
