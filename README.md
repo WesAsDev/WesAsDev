@@ -1,8 +1,16 @@
-<h2 align="center"> Olá, me chamo Weslley 🔥 </h2>
+<h2 align="center"> 🔥 Hello there, Weslley here 🔥 </h2>
 <div align="center">
-- 🔭 Sou um desenvolvedor web fullstack </br>
-- 🌱 Estudando: Javascript, HTML, CSS, ReactJs, NodeJs
+
+<p>🔭 I'm a fullstack web and salesforce developer</p>
+<p>🌱 Talk with me about: Javascript, HTML, CSS, ReactJs, NodeJs, SOQL, SQL, Apex and LWC</p>
+<p>❤ I love to code personal projects and my favorite one is a music player that I actually working on</p>
 </div></br>
+<h2 align="center"> 🍃The dreams only come to be true if we chase them 🍃</h2>
+<div align="center">
+
+ <p style="font-size:.6rem"> That's why I'm a programmer
+
+</div>
 
 <div align="center">
   <a href="https://github.com/WesAsDev">
@@ -11,7 +19,7 @@
 </div>
 
 ##
-  
+
 <div align="center" style="display: inline;">
   <img align="center" alt="Wes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wes-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
